@@ -5,4 +5,4 @@ Projeto simples apenas para praticar o uso do GitHub:
 - Abrir issues
 - Fazer commits
 - Realizar pull requests e merges
-- Enviar a atividade no Classroom
+
