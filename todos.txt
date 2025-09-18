@@ -1,4 +1,4 @@
 - [ ] Aprender Git e GitHub
 - [ ] Criar minha primeira branch
 - [ ] Fazer meu primeiro commit
-- [ ] Criar minha primeira branch
+- [X] Criar minha primeira branch
